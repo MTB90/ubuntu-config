@@ -1,1 +1,1 @@
-# configration
+# Configration
